@@ -14,7 +14,7 @@
     <body>
         <h1 align = "center">
             <font face = "Arial">CONERTAR UNA TUTORÍA</h1>
-        <form action = "http://localhost:8080/tutorias/servlet/Tutorias" method = "POST">
+        <form action = "http://localhost:8080/Tutoria/Tutorias" method = "POST">
             <font face = "Arial">Alumno: </font>
             <br>
             <input type = "text" name = "alumno" size = "60">
