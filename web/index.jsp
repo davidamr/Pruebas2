@@ -42,7 +42,22 @@
             <input type = "radio" name = "hora" value = "10" checked>
             &nbsp;&nbsp;&nbsp;
             <font face = "Arial">12</font>
-            
-            HOLAAAAAAAA
+            <input type = "radio" name = "hora" value = "12">
+            &nbsp;&nbsp;&nbsp;
+            <font face = "Arial">16</font>
+            <input type = "radio" name = "hora" value = "16">
+            <font face = "Arial">18</font>
+            <input type = "radio" name = "hora" value = "18">
+            <br>
+            <br>
+            <font face = "Arial">Asunto:</font>
+            <br>
+            <textarea name = "asunto" rows = "5" cols = "40" wrap></textarea>
+            <br>
+            <br>
+            <input type = "submit" value = "Enviar datos">
+            &nbsp;&nbsp;<input type = "reset">
+        </form>
     </body>
 </html>
+
